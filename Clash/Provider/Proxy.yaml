@@ -1,4 +1,6 @@
 payload:  
+  # > hornkyin自定义
+  - DOMAIN-SUFFIX, kr
   # > Line
   - DOMAIN-SUFFIX,lin.ee
   - DOMAIN-SUFFIX,line.me
