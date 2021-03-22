@@ -1,5 +1,11 @@
 # 使用手册
 
+````
+git remote add upstream https://github.com/lhie1/Rules.git
+git pull upstream master
+git push
+````
+
 ### 简介
 
 本项目最早是 Fork [scomper/surge.conf](https://gist.github.com/scomper/915b04a974f9e11952babfd0bbb241a8) 定制修改而来。
